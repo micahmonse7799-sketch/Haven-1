@@ -1,0 +1,8 @@
+{
+  "name": "HAVEN MIS V 0.9710",
+  "description": "A high-fidelity management information system dashboard for healthcare facilities, featuring comprehensive navigation, quick action tiles, and real-time widgets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
